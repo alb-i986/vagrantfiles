@@ -22,7 +22,7 @@ Please consider it more like a guideline showing the steps required to satisfy t
 
 ## Usage
 
-`cd` to the Vagrantfile you are interested in, and run
+All you need to do is `cd` to the Vagrantfile you are interested in, and run
 
     vagrant up
 
