@@ -2,7 +2,16 @@ SITE
   remote: http://community.opscode.com/api/v1
   specs:
     apt (2.5.3)
+    htop (2.0.0)
+      yum-repoforge (>= 0.0.0)
+    yum (3.3.1)
+    yum-epel (0.5.1)
+      yum (~> 3.0)
+    yum-repoforge (0.4.0)
+      yum (~> 3.0)
+      yum-epel (>= 0.0.0)
 
 DEPENDENCIES
   apt (>= 0)
+  htop (>= 0)
 
