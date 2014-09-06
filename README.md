@@ -7,7 +7,10 @@ My personal collection of `Vagrantfile`s.
 ## Requirements
 
 - VirtualBox
-- Vagrant ( + vagrant-omnibus and vagrant-cachier)
+- Vagrant
+  + vagrant-omnibus
+  + vagrant-cachier
+  + vagrant-librarian-chef
 - chef
 - librarian-chef
 
