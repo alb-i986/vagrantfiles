@@ -1,0 +1,11 @@
+# vagrant stuff
+.vagrant/
+
+
+# librarian-chef stuff
+cookbooks/
+tmp/
+#*.lock
+
+
+# other
